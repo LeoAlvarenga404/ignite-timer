@@ -15,5 +15,4 @@ npm install zod
 - eslint
 - react router dom
 - phospor icons
-  
->>>>>>> e5aca3c08d77f473ac010d06c60e4ca3c3574b8f
+
